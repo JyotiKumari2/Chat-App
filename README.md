@@ -23,8 +23,11 @@ I have learned a lot of concepts while building this project like now I am confi
 - HTTP Module
 - Frameworks
 - Databases
-- Node.js with socket.io
+- Node.js with socket.io 
 - Node app deployment
+- Websocket Protocol: The WebSocket protocol
+                      supports real-time bi-direction communication, which makes it a great fit for this chat
+                      application.
 ```html
 <h1>Nodejs Chat-Application💬</h1>
 ```
