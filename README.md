@@ -1,6 +1,9 @@
 # Chat-App💬
-
-This is my first real time nodejs web application project with socket.io <br>
+- A real-time chat-room application with socket.io and Node.js.
+- Users can send the geographical location to other users in the room if permission is granted.
+- The page automatically scrolls down upon recieving a new message.
+ 
+<hr>
 👇👇👇👇👇👇👇👇👇👇👇👇<br>
 [Can see the project over here](https://jyoti-node-chat-app.herokuapp.com/)
  
